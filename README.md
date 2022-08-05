@@ -1,4 +1,9 @@
-### <h1 align="center"> Hi 👋 I am Prachi Mahajan
+### <h1 align="center"> Hi 👋 I'm Prachi Mahajan
+ 🌱 I’m currently learning Full-Stack Development (MERN) <br>
+ 📫 How to reach me:<br>
+<strong>Connect on Linkedin: </strong> https://www.linkedin.com/in/prachi-mahajan-a68110187
+
+
 
 <!--
 **Prachi26-Mahajan/Prachi26-Mahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
